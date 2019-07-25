@@ -1,0 +1,2 @@
+      invoke  active_record
+      create    db/migrate/20190725185413_add_active_to_students.rb
